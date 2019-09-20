@@ -3,12 +3,10 @@ package FeetNumber;
 import java.util.Scanner;
 
 /*
-Mila Arkhiptcova
+Mila Arkhiptsova
 This program that prompts the user to enter a letter grade A, B, C, D, or F 
 and displays its corresponding numeric value 4, 3, 2, 1, or 0.  
 For other input, display invalid grade. 
-09/11/2019
-Bellevue University
 grade.java
 */
 public class Grade {
